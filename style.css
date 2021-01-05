@@ -74,7 +74,4 @@ background-repeat: no-repeat;background-position:right ;}
     border-image: linear-gradient(180deg,cyan,blue);
     border-image-slice: 1;}    
     
-    footer p{
-        font-size: 15px;
-        text-align: center;
-    }
+footer p{text-align: center;font-size:14px;}
